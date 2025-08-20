@@ -4,7 +4,6 @@ import cors from "cors";
 import vosk from "vosk";
 import say from "say";   // 👈 TTS
 import path from "path";
-import streamifier from "streamifier";
 
 const { Model } = vosk;
 const app = express();
