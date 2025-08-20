@@ -24,7 +24,6 @@
     "openai": "^5.12.2",
     "say": "^0.16.0",
     "vosk": "^0.3.39",
-    "streamfire": "^1.10.1"
   },
   "description": ""
 }
