@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "myshopbot-mday",
+  "private_key_id": "7232df66b32d6fd46f82da24a4a0fa129df064bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqax3wB0VZVsZA\n1vKPkQ51hSsqwfOr/M9+wAlbOwuZULg9htq0YuWTDuxTv3W1I1dcaYe9VoPI8M19\nizczPx/Mo+OpD8Fk8vVi79Gzg/yEiCBUsR1NF0cJwhafMewptPxFAmTDCf5Ucl4p\nemuowPGMuAth0xPzZveidfOl8syoftEUzPhODy0PapyqEc8z4DbpzaE9wZQrZ4xS\nZcWfZMwbtWA+PIgUFbJeViEWT5h0/oDavxyW+gVuSygrrQSHY2OIcwht8ZZw7hd2\nepeQXgDkqU4w8GHhKTJydx1NAor948Zo/ePmffqmFTX8U6JEjN4PugPtxoSZ8ANg\nVo3iVEOVAgMBAAECggEAAyEBk1IhhXECl2VlltLiX+k6aSuB6DaKy6MGNyz8MEFi\nbe81pOE59xDA6UcseXn8I1xIcQMdk/r1pK+BnVcX3N+ekS0Emgy5ClW2/8cq4D4Q\nQlh8JWftSHlOMHf255KvuYBrBtwpDouJBLi4MTNHeIWsUgxtzdiJvjKYGa6hRW/K\nDHVQkymESZLDT7JPPArdMFN7CoTzGhA8mF1gyZ3nxHVYO0BC7wyQky5/iylxPuWz\n38SyPYIp34XZ9TiVu3pCzxhLPF3AbYy7/h86kPEgRqqWy7T9wCgR8E8MVhTj/nCK\nwCSvYOO/QHyCGvTenu3JTr312VexMb1gzdcmtlZ0wQKBgQDlI+sAia857d/0DG2T\nlWdNBcq6/sFVZMTglrroslzsMESe7Kt03XbY3gzkqGj5wWnqPqkTL9ILKdHcZjN9\niBOVRi+GaOqPMrpzngvdci9rgp4OqnAqI0eXEkGWE391+sXAHi6yQIKQj45EbT9t\nQ8kpmjJ6R4DJQ1oucMVXvT1OdQKBgQC+ZRAIkU59u1O+8JPOeSMQ8wiNw8u3iJ33\n5oHaJj5jNHktdYj/mQTKZwMZHSQHybSxDmbbaq/hayWeF1Ds21uoqvaTK9VxFQj8\napfs6uQ0Mwrm0M77BE4RELyzjk37/aYlQWon2IsKED4stiXfZrpdS6qobByCVcou\n4ixhH4i8oQKBgQDC3nwB9hX+Rw2Z6GPcCkhS2aUiyHs1G0DP24BTWzTpbNc+7PmX\npqxnHNiMMaktFk7z9pwlhBq2gbdHH+eUT4CQB6NtRJaOd87XesaOaohnfyraQBqp\ny10b3lvGvQg+FqnMjB6cW35uYJfWG67ARtCyP7/D/EFLaKsuKZu61WZo7QKBgCIJ\nZyhg8atAheQolgPfXAl3qRvO2Ohin/rlVmltVNHfW5po3Kj07gpRCBjBQOOzh33v\nmSu4kuC1ivAMMwdk36nzhkkhGPMyU3zsgWR1SX6bcWN6CMaPKnWajGF9GyvlWIJo\ng1XEPHb8GGFd3r9lWgO7tzKMwTv7oj1naY+jV4qBAoGAD7MdgQrA95RNymi9SNA4\nHPPBGB2F0CsCDrLZ4qsrsUtUi7bXkD8ldf3SeTIVh93wX78n+hCjwtZ8m2jvRrZp\ntJfG2mml0/y1f5ml8pD435koFG4bSpVjj/cuLD3W3uw8NnRFn4QX0LlORbGz9/tB\nrw1dyxBCqmln49GATBVT+6M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialog-flowagent-new@myshopbot-mday.iam.gserviceaccount.com",
+  "client_id": "117284808922245364918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialog-flowagent-new%40myshopbot-mday.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
