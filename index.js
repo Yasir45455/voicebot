@@ -77,4 +77,11 @@ app.get("/tts/:text", (req, res) => {
   });
 });
 
+
+app.get("/", (req, res) => {
+  res.send("Hello From Voice Bot Server!");
+});
+
+app.get("/favicon.ico", (req, res) => res.status(204).end());
+
 app.listen(5000, () => console.log("Server running on http://localhost:5000"));
