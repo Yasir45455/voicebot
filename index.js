@@ -7,8 +7,13 @@ import path from "path";
 
 const { Model } = vosk;
 const app = express();
-app.use(cors({ origin: "*" }));
-
+app.use(
+  cors({
+    origin: ["https://voicebot.oxmite.com"], 
+    methods: ["GET", "POST"],
+    allowedHeaders: ["Content-Type"],
+  })
+);
 // 👉 FIX: use memoryStorage instead of writing to /uploads
 const upload = multer({ storage: multer.memoryStorage() });
 
