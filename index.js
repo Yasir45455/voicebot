@@ -7,7 +7,7 @@ import path from "path";
 
 const { Model } = vosk;
 const app = express();
-app.use(cors());
+app.use(cors({ origin: "*" }));
 
 // 👉 FIX: use memoryStorage instead of writing to /uploads
 const upload = multer({ storage: multer.memoryStorage() });
